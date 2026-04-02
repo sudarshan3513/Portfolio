@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "portfolio.client", "portfolio.client\portfolio.client.esproj", "{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.Server", "Portfolio.Server\Portfolio.Server.csproj", "{8EDE8D2D-7A46-407B-9B8B-ADED862EEAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B3566D-4B30-72F6-4BC1-F5A365BA4D1F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{8EDE8D2D-7A46-407B-9B8B-ADED862EEAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDE8D2D-7A46-407B-9B8B-ADED862EEAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDE8D2D-7A46-407B-9B8B-ADED862EEAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDE8D2D-7A46-407B-9B8B-ADED862EEAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6259CE60-8D8E-4F0C-BB3D-0F38E65055E8}
+	EndGlobalSection
+EndGlobal
